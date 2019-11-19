@@ -1,7 +1,19 @@
-
-.nav-item, .media-links {
+.nav-item,
+.media-links {
     list-style: none;
 }
 
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
 
+.review {
+    text-align: center;
+    text-shadow: 1px 1px;
+    text-transform: uppercase;
+}
 
+i {
+    font-size: 3rem;
+}
